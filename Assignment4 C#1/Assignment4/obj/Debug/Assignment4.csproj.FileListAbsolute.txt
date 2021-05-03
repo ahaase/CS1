@@ -1,0 +1,11 @@
+C:\Users\alexh\source\repos\Assignment4 C#1\Assignment4\bin\Debug\Assignment4.exe.config
+C:\Users\alexh\source\repos\Assignment4 C#1\Assignment4\bin\Debug\Assignment4.exe
+C:\Users\alexh\source\repos\Assignment4 C#1\Assignment4\bin\Debug\Assignment4.pdb
+C:\Users\alexh\source\repos\Assignment4 C#1\Assignment4\obj\Debug\Assignment4.csprojAssemblyReference.cache
+C:\Users\alexh\source\repos\Assignment4 C#1\Assignment4\obj\Debug\Assignment4.FormIngredients.resources
+C:\Users\alexh\source\repos\Assignment4 C#1\Assignment4\obj\Debug\Assignment4.MainForm.resources
+C:\Users\alexh\source\repos\Assignment4 C#1\Assignment4\obj\Debug\Assignment4.Properties.Resources.resources
+C:\Users\alexh\source\repos\Assignment4 C#1\Assignment4\obj\Debug\Assignment4.csproj.GenerateResource.cache
+C:\Users\alexh\source\repos\Assignment4 C#1\Assignment4\obj\Debug\Assignment4.csproj.CoreCompileInputs.cache
+C:\Users\alexh\source\repos\Assignment4 C#1\Assignment4\obj\Debug\Assignment4.exe
+C:\Users\alexh\source\repos\Assignment4 C#1\Assignment4\obj\Debug\Assignment4.pdb
