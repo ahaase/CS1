@@ -1,1 +1,1 @@
-CS1
+C# Assignments for Malmö University. Basic level.
